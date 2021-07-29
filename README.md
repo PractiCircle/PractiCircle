@@ -1,5 +1,3 @@
-Fireballs, icicle walls, darkness falls. Some may call it Black Magic, but I call it Black Geometry.
-
 - 👋 Hi, I’m @PractiCircle
 - 👀 I’m interested in making fun code and useful code! I am currently considering making a Minecraft Forge mod and a discord bot.
 - 🌱 I’m currently learning Computer Science at Michigan Tech!
